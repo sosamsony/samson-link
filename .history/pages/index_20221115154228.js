@@ -12,7 +12,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 const linkItems = [
   {
-    heading: 'sosamson.com',
+    heading: 'My Website',
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
@@ -20,7 +20,7 @@ const linkItems = [
     url: 'https://sosamson.com/',
   },
   {
-    heading: '@sosamsony',
+    heading: 'sosamsony',
     subtext: 'Follow on Github',
     icon: <AiOutlineGithub size={36} />,
     color: '#fff',
@@ -58,7 +58,7 @@ const AllLinks = () => {
     <div className="p-5 flex flex-col gap-5 justify-center items-center">
       <div className="rounded-full w-20 h-20 overflow-hidden shadow-bs1">
         <Image
-          src="/samson.jpeg"
+          src="https://sosamson.com/static/media/me.46fe38dcac1824f4760e.png"
           alt="logo"
           height={80}
           width={80}

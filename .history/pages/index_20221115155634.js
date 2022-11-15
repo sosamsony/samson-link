@@ -12,7 +12,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 const linkItems = [
   {
-    heading: 'sosamson.com',
+    heading: 'Sosamson.com',
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',

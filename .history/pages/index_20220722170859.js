@@ -12,44 +12,44 @@ import { v4 as uuidv4 } from 'uuid';
 
 const linkItems = [
   {
-    heading: 'sosamson.com',
+    heading: 'Samson Website',
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
     bg: '#0f81f0',
-    url: 'https://sosamson.com/',
+    url: 'https://react.sosarena.com/',
   },
   {
-    heading: '@sosamsony',
+    heading: 'Sosarenaint',
     subtext: 'Follow on Github',
     icon: <AiOutlineGithub size={36} />,
     color: '#fff',
     bg: '#333',
-    url: 'https://github.com/sosamsony',
+    url: 'https://github.com/sosarenaint',
   },
   {
-    heading: '@sosamsony',
+    heading: '@sosarenaint',
     subtext: 'Follow on Instagram',
     icon: <AiOutlineInstagram size={36} />,
     color: '#fff',
     bg: '#E4405F',
-    url: 'https://instagram.com/sosamsony',
+    url: 'https://instagram.com/sosarenaint',
   },
   {
-    heading: '@sosamsony',
+    heading: '@sosarenaint',
     subtext: 'Follow on Twitter',
     icon: <AiOutlineTwitter size={36} />,
     color: '#fff',
     bg: '#0f81f0',
-    url: 'https://twitter.com/sosamsony',
+    url: 'https://twitter.com/sosarenaint',
   },
   {
-    heading: '@sosamsony',
+    heading: 'Samson Sanyaolu',
     subtext: 'Follow on Linkedin',
     icon: <AiFillLinkedin size={36} />,
     color: '#fff',
     bg: '#0f81f0',
-    url: 'https://www.linkedin.com/in/sosamsony/',
+    url: 'https://www.linkedin.com/in/samson-sanyaolu/',
   },
 ];
 
@@ -58,7 +58,7 @@ const AllLinks = () => {
     <div className="p-5 flex flex-col gap-5 justify-center items-center">
       <div className="rounded-full w-20 h-20 overflow-hidden shadow-bs1">
         <Image
-          src="/samson.jpeg"
+          src="/samson.jpg"
           alt="logo"
           height={80}
           width={80}

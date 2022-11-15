@@ -12,7 +12,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 const linkItems = [
   {
-    heading: 'sosamson.com',
+    heading: 'My Website',
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
@@ -20,7 +20,7 @@ const linkItems = [
     url: 'https://sosamson.com/',
   },
   {
-    heading: '@sosamsony',
+    heading: 'sosamsony',
     subtext: 'Follow on Github',
     icon: <AiOutlineGithub size={36} />,
     color: '#fff',
