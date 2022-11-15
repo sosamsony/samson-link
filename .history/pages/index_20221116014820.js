@@ -17,7 +17,7 @@ const linkItems = [
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
-    bg: '#2c2c6c',
+    bg: '#0f81f0',
     url: 'https://sosamson.com/',
   },
   {
@@ -25,16 +25,8 @@ const linkItems = [
     subtext: 'My Porfolio',
     icon: <BiWorld size={36} />,
     color: '#fff',
-    bg: '#fe6300',
+    bg: '#E4405F',
     url: 'https://sosamson.com/portfolio',
-  },
-  {
-    heading: '@sosamson',
-    subtext: 'My Resume',
-    icon: <BiWorld size={36} />,
-    color: '#fff',
-    bg: '#1DA1F2',
-    url: 'https://sosamson.com/resume',
   },
   {
     heading: '@sosamsony',
@@ -49,7 +41,7 @@ const linkItems = [
     subtext: 'Follow on Instagram',
     icon: <AiOutlineInstagram size={36} />,
     color: '#fff',
-    bg: '#C13584',
+    bg: '#E4405F',
     url: 'https://instagram.com/sosamsony',
   },
   {
@@ -57,7 +49,7 @@ const linkItems = [
     subtext: 'Follow on Twitter',
     icon: <AiOutlineTwitter size={36} />,
     color: '#fff',
-    bg: '#1DA1F2',
+    bg: '#0f81f0',
     url: 'https://twitter.com/sosamsony',
   },
   {
@@ -65,7 +57,7 @@ const linkItems = [
     subtext: 'Follow on Linkedin',
     icon: <AiFillLinkedin size={36} />,
     color: '#fff',
-    bg: '#0077b5',
+    bg: '#0f81f0',
     url: 'https://www.linkedin.com/in/sosamsony/',
   },
   {
@@ -73,7 +65,7 @@ const linkItems = [
     subtext: 'Follow on Facebook',
     icon: <AiOutlineFacebook size={36} />,
     color: '#fff',
-    bg: '#4267B2',
+    bg: '#0f81f0',
     url: 'https://facebook.com/sosamsony',
   },
 ];

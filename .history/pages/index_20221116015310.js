@@ -17,7 +17,7 @@ const linkItems = [
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
-    bg: '#2c2c6c',
+    bg: '#0f81f0',
     url: 'https://sosamson.com/',
   },
   {
@@ -27,14 +27,6 @@ const linkItems = [
     color: '#fff',
     bg: '#fe6300',
     url: 'https://sosamson.com/portfolio',
-  },
-  {
-    heading: '@sosamson',
-    subtext: 'My Resume',
-    icon: <BiWorld size={36} />,
-    color: '#fff',
-    bg: '#1DA1F2',
-    url: 'https://sosamson.com/resume',
   },
   {
     heading: '@sosamsony',
@@ -49,7 +41,7 @@ const linkItems = [
     subtext: 'Follow on Instagram',
     icon: <AiOutlineInstagram size={36} />,
     color: '#fff',
-    bg: '#C13584',
+    bg: '#E4405F',
     url: 'https://instagram.com/sosamsony',
   },
   {
@@ -65,7 +57,7 @@ const linkItems = [
     subtext: 'Follow on Linkedin',
     icon: <AiFillLinkedin size={36} />,
     color: '#fff',
-    bg: '#0077b5',
+    bg: '#0f81f0',
     url: 'https://www.linkedin.com/in/sosamsony/',
   },
   {

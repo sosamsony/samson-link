@@ -33,7 +33,7 @@ const linkItems = [
     subtext: 'My Resume',
     icon: <BiWorld size={36} />,
     color: '#fff',
-    bg: '#1DA1F2',
+    bg: '#fe6300',
     url: 'https://sosamson.com/resume',
   },
   {

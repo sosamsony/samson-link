@@ -17,7 +17,7 @@ const linkItems = [
     subtext: 'Visit Website',
     icon: <BiWorld size={36} />,
     color: '#fff',
-    bg: '#2c2c6c',
+    bg: '#0f81f0',
     url: 'https://sosamson.com/',
   },
   {
@@ -27,14 +27,6 @@ const linkItems = [
     color: '#fff',
     bg: '#fe6300',
     url: 'https://sosamson.com/portfolio',
-  },
-  {
-    heading: '@sosamson',
-    subtext: 'My Resume',
-    icon: <BiWorld size={36} />,
-    color: '#fff',
-    bg: '#1DA1F2',
-    url: 'https://sosamson.com/resume',
   },
   {
     heading: '@sosamsony',

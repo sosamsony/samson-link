@@ -29,14 +29,6 @@ const linkItems = [
     url: 'https://sosamson.com/portfolio',
   },
   {
-    heading: '@sosamson',
-    subtext: 'My Resume',
-    icon: <BiWorld size={36} />,
-    color: '#fff',
-    bg: '#1DA1F2',
-    url: 'https://sosamson.com/resume',
-  },
-  {
     heading: '@sosamsony',
     subtext: 'Follow on Github',
     icon: <AiOutlineGithub size={36} />,
