@@ -1,1 +1,1 @@
-# Home Page of [links.mridul.tech](https://links.mridul.tech/)
+# Home Page of [link.sosamson.com](https://link.sosamson.com/)
