@@ -6,8 +6,7 @@
     "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
-    "format": "prettier --write .",
-    "postbuild": "next-sitemap"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "dotenv": "^10.0.0",
