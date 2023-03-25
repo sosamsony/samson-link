@@ -29,6 +29,14 @@ const linkItems = [
     url: 'https://sosamson.com/resume',
   },
   {
+    heading: '@sosamson',
+    subtext: 'My Portfolio',
+    icon: <BiWorld size={36} />,
+    color: '#fff',
+    bg: '#b55210',
+    url: 'https://sosamson.com/portfolio',
+  },
+  {
     heading: '@sosamsony',
     subtext: 'Follow on Linkedin',
     icon: <AiFillLinkedin size={36} />,
@@ -50,7 +58,15 @@ const linkItems = [
     icon: <AiOutlineTwitter size={36} />,
     color: '#fff',
     bg: '#1DA1F2',
-    url: 'https://twitter.com/sosamsony',
+    url: 'https://twitter.com/intent/user?screen_name=sosamsony',
+  },
+  {
+    heading: '@sosamsony',
+    subtext: 'Follow on Instagram',
+    icon: <AiOutlineInstagram size={36} />,
+    color: '#fff',
+    bg: '#E4405F',
+    url: 'https://www.instagram.com/sosamsony/?hl=en',
   },
 ];
 
